@@ -1,0 +1,5 @@
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Operators/Operators/bin/Debug/Operators.exe
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Operators/Operators/bin/Debug/Operators.pdb
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Operators/Operators/obj/x86/Debug/Operators.csproj.CoreCompileInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Operators/Operators/obj/x86/Debug/Operators.exe
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Operators/Operators/obj/x86/Debug/Operators.pdb
