@@ -1,0 +1,5 @@
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/variables-and-constands/variables-and-constands/bin/Debug/variables-and-constands.exe
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/variables-and-constands/variables-and-constands/bin/Debug/variables-and-constands.pdb
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/variables-and-constands/variables-and-constands/obj/x86/Debug/variables-and-constands.csproj.CoreCompileInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/variables-and-constands/variables-and-constands/obj/x86/Debug/variables-and-constands.exe
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/variables-and-constands/variables-and-constands/obj/x86/Debug/variables-and-constands.pdb
