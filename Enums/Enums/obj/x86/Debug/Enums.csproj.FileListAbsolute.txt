@@ -1,0 +1,5 @@
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Enums/Enums/bin/Debug/Enums.exe
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Enums/Enums/bin/Debug/Enums.pdb
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Enums/Enums/obj/x86/Debug/Enums.csproj.CoreCompileInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Enums/Enums/obj/x86/Debug/Enums.exe
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Enums/Enums/obj/x86/Debug/Enums.pdb
