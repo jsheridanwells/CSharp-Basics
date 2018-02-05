@@ -1,0 +1,11 @@
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Control-Flow/Control-Flow/bin/Debug/netcoreapp2.0/Control-Flow.deps.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Control-Flow/Control-Flow/bin/Debug/netcoreapp2.0/Control-Flow.runtimeconfig.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Control-Flow/Control-Flow/bin/Debug/netcoreapp2.0/Control-Flow.runtimeconfig.dev.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Control-Flow/Control-Flow/bin/Debug/netcoreapp2.0/Control-Flow.dll
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Control-Flow/Control-Flow/bin/Debug/netcoreapp2.0/Control-Flow.pdb
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Control-Flow/Control-Flow/obj/Debug/netcoreapp2.0/Control-Flow.csprojResolveAssemblyReference.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Control-Flow/Control-Flow/obj/Debug/netcoreapp2.0/Control-Flow.csproj.CoreCompileInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Control-Flow/Control-Flow/obj/Debug/netcoreapp2.0/Control-Flow.AssemblyInfoInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Control-Flow/Control-Flow/obj/Debug/netcoreapp2.0/Control-Flow.AssemblyInfo.cs
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Control-Flow/Control-Flow/obj/Debug/netcoreapp2.0/Control-Flow.dll
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Control-Flow/Control-Flow/obj/Debug/netcoreapp2.0/Control-Flow.pdb
