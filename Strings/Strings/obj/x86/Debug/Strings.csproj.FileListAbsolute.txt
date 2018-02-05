@@ -1,0 +1,5 @@
+/Users/jeremysheridanwells/workspace/tutorials/C#ForBeginners/Strings/Strings/bin/Debug/Strings.exe
+/Users/jeremysheridanwells/workspace/tutorials/C#ForBeginners/Strings/Strings/bin/Debug/Strings.pdb
+/Users/jeremysheridanwells/workspace/tutorials/C#ForBeginners/Strings/Strings/obj/x86/Debug/Strings.csproj.CoreCompileInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/C#ForBeginners/Strings/Strings/obj/x86/Debug/Strings.exe
+/Users/jeremysheridanwells/workspace/tutorials/C#ForBeginners/Strings/Strings/obj/x86/Debug/Strings.pdb
