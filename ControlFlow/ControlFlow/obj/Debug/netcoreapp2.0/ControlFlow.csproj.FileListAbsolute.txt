@@ -1,0 +1,11 @@
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/ControlFlow/ControlFlow/bin/Debug/netcoreapp2.0/ControlFlow.deps.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/ControlFlow/ControlFlow/bin/Debug/netcoreapp2.0/ControlFlow.runtimeconfig.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/ControlFlow/ControlFlow/bin/Debug/netcoreapp2.0/ControlFlow.runtimeconfig.dev.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/ControlFlow/ControlFlow/bin/Debug/netcoreapp2.0/ControlFlow.dll
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/ControlFlow/ControlFlow/bin/Debug/netcoreapp2.0/ControlFlow.pdb
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/ControlFlow/ControlFlow/obj/Debug/netcoreapp2.0/ControlFlow.csprojResolveAssemblyReference.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/ControlFlow/ControlFlow/obj/Debug/netcoreapp2.0/ControlFlow.csproj.CoreCompileInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/ControlFlow/ControlFlow/obj/Debug/netcoreapp2.0/ControlFlow.AssemblyInfoInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/ControlFlow/ControlFlow/obj/Debug/netcoreapp2.0/ControlFlow.AssemblyInfo.cs
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/ControlFlow/ControlFlow/obj/Debug/netcoreapp2.0/ControlFlow.dll
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/ControlFlow/ControlFlow/obj/Debug/netcoreapp2.0/ControlFlow.pdb
