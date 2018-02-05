@@ -1,0 +1,5 @@
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Classes-and-Objects/Classes-and-Objects/bin/Debug/Classes-and-Objects.exe
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Classes-and-Objects/Classes-and-Objects/bin/Debug/Classes-and-Objects.pdb
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Classes-and-Objects/Classes-and-Objects/obj/x86/Debug/Classes-and-Objects.csproj.CoreCompileInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Classes-and-Objects/Classes-and-Objects/obj/x86/Debug/Classes-and-Objects.exe
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Classes-and-Objects/Classes-and-Objects/obj/x86/Debug/Classes-and-Objects.pdb
