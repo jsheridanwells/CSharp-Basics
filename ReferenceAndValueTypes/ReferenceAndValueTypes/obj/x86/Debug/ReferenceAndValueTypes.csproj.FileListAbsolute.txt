@@ -1,0 +1,5 @@
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/ReferenceAndValueTypes/ReferenceAndValueTypes/bin/Debug/ReferenceAndValueTypes.exe
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/ReferenceAndValueTypes/ReferenceAndValueTypes/bin/Debug/ReferenceAndValueTypes.pdb
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/ReferenceAndValueTypes/ReferenceAndValueTypes/obj/x86/Debug/ReferenceAndValueTypes.csproj.CoreCompileInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/ReferenceAndValueTypes/ReferenceAndValueTypes/obj/x86/Debug/ReferenceAndValueTypes.exe
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/ReferenceAndValueTypes/ReferenceAndValueTypes/obj/x86/Debug/ReferenceAndValueTypes.pdb
