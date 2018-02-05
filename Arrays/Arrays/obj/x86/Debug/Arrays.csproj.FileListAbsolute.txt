@@ -1,0 +1,5 @@
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Arrays/Arrays/obj/x86/Debug/Arrays.csproj.CoreCompileInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Arrays/Arrays/bin/Debug/Arrays.exe
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Arrays/Arrays/bin/Debug/Arrays.pdb
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Arrays/Arrays/obj/x86/Debug/Arrays.exe
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Arrays/Arrays/obj/x86/Debug/Arrays.pdb
