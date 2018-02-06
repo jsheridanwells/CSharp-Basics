@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrays-and-lists", "arrays-and-lists\arrays-and-lists.csproj", "{5DFA5BB3-F321-42F7-A3B3-DF41631C5CA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DFA5BB3-F321-42F7-A3B3-DF41631C5CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DFA5BB3-F321-42F7-A3B3-DF41631C5CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DFA5BB3-F321-42F7-A3B3-DF41631C5CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DFA5BB3-F321-42F7-A3B3-DF41631C5CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

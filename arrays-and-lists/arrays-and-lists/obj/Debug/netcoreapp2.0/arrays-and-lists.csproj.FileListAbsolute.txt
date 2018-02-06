@@ -1,0 +1,11 @@
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/arrays-and-lists/arrays-and-lists/obj/Debug/netcoreapp2.0/arrays-and-lists.csprojResolveAssemblyReference.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/arrays-and-lists/arrays-and-lists/obj/Debug/netcoreapp2.0/arrays-and-lists.csproj.CoreCompileInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/arrays-and-lists/arrays-and-lists/obj/Debug/netcoreapp2.0/arrays-and-lists.AssemblyInfoInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/arrays-and-lists/arrays-and-lists/obj/Debug/netcoreapp2.0/arrays-and-lists.AssemblyInfo.cs
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/arrays-and-lists/arrays-and-lists/bin/Debug/netcoreapp2.0/arrays-and-lists.deps.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/arrays-and-lists/arrays-and-lists/bin/Debug/netcoreapp2.0/arrays-and-lists.runtimeconfig.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/arrays-and-lists/arrays-and-lists/bin/Debug/netcoreapp2.0/arrays-and-lists.runtimeconfig.dev.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/arrays-and-lists/arrays-and-lists/bin/Debug/netcoreapp2.0/arrays-and-lists.dll
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/arrays-and-lists/arrays-and-lists/bin/Debug/netcoreapp2.0/arrays-and-lists.pdb
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/arrays-and-lists/arrays-and-lists/obj/Debug/netcoreapp2.0/arrays-and-lists.dll
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/arrays-and-lists/arrays-and-lists/obj/Debug/netcoreapp2.0/arrays-and-lists.pdb
