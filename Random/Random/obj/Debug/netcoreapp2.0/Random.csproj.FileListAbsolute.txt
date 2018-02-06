@@ -1,0 +1,11 @@
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Random/Random/obj/Debug/netcoreapp2.0/Random.csprojResolveAssemblyReference.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Random/Random/obj/Debug/netcoreapp2.0/Random.csproj.CoreCompileInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Random/Random/obj/Debug/netcoreapp2.0/Random.AssemblyInfoInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Random/Random/obj/Debug/netcoreapp2.0/Random.AssemblyInfo.cs
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Random/Random/bin/Debug/netcoreapp2.0/Random.deps.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Random/Random/bin/Debug/netcoreapp2.0/Random.runtimeconfig.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Random/Random/bin/Debug/netcoreapp2.0/Random.runtimeconfig.dev.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Random/Random/bin/Debug/netcoreapp2.0/Random.dll
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Random/Random/bin/Debug/netcoreapp2.0/Random.pdb
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Random/Random/obj/Debug/netcoreapp2.0/Random.dll
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Random/Random/obj/Debug/netcoreapp2.0/Random.pdb
