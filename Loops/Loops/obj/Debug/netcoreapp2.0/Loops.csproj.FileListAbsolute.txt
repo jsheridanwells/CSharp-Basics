@@ -1,0 +1,11 @@
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Loops/Loops/bin/Debug/netcoreapp2.0/Loops.deps.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Loops/Loops/bin/Debug/netcoreapp2.0/Loops.runtimeconfig.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Loops/Loops/bin/Debug/netcoreapp2.0/Loops.runtimeconfig.dev.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Loops/Loops/bin/Debug/netcoreapp2.0/Loops.dll
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Loops/Loops/bin/Debug/netcoreapp2.0/Loops.pdb
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Loops/Loops/obj/Debug/netcoreapp2.0/Loops.csprojResolveAssemblyReference.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Loops/Loops/obj/Debug/netcoreapp2.0/Loops.csproj.CoreCompileInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Loops/Loops/obj/Debug/netcoreapp2.0/Loops.AssemblyInfoInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Loops/Loops/obj/Debug/netcoreapp2.0/Loops.AssemblyInfo.cs
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Loops/Loops/obj/Debug/netcoreapp2.0/Loops.dll
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Loops/Loops/obj/Debug/netcoreapp2.0/Loops.pdb
