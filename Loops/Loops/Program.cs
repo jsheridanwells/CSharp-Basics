@@ -33,12 +33,26 @@ namespace Loops
                 Console.WriteLine(character);
             }
 
-            // my numbers
+            // using an array
             var numbers = new int[] { 1, 2, 3, 4, 5 };
 
             foreach (var num in numbers)
             {
                 Console.WriteLine(num);
+            }
+
+            // using a while loop
+            while (true) {
+                Console.Write("Type your name");
+                var input = Console.ReadLine();
+
+                if (!String.IsNullOrWhiteSpace(input))
+                {
+                    Console.WriteLine("Echo: {0}.", input);
+                    continue;
+                }
+                break;
+
             }
         }
     }
