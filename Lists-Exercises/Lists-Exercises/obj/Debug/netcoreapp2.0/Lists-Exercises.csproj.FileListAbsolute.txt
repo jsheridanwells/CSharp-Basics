@@ -1,0 +1,11 @@
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Lists-Exercises/Lists-Exercises/obj/Debug/netcoreapp2.0/Lists-Exercises.csprojResolveAssemblyReference.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Lists-Exercises/Lists-Exercises/obj/Debug/netcoreapp2.0/Lists-Exercises.csproj.CoreCompileInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Lists-Exercises/Lists-Exercises/obj/Debug/netcoreapp2.0/Lists-Exercises.AssemblyInfoInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Lists-Exercises/Lists-Exercises/obj/Debug/netcoreapp2.0/Lists-Exercises.AssemblyInfo.cs
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Lists-Exercises/Lists-Exercises/bin/Debug/netcoreapp2.0/Lists-Exercises.deps.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Lists-Exercises/Lists-Exercises/bin/Debug/netcoreapp2.0/Lists-Exercises.runtimeconfig.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Lists-Exercises/Lists-Exercises/bin/Debug/netcoreapp2.0/Lists-Exercises.runtimeconfig.dev.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Lists-Exercises/Lists-Exercises/bin/Debug/netcoreapp2.0/Lists-Exercises.dll
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Lists-Exercises/Lists-Exercises/bin/Debug/netcoreapp2.0/Lists-Exercises.pdb
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Lists-Exercises/Lists-Exercises/obj/Debug/netcoreapp2.0/Lists-Exercises.dll
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Lists-Exercises/Lists-Exercises/obj/Debug/netcoreapp2.0/Lists-Exercises.pdb
