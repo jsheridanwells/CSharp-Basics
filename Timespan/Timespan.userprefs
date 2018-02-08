@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{8D6F68B1-E8F3-459A-A569-F3CD37C03FCC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Timespan/Program.cs">
+    <Files>
+      <File FileName="Timespan/Program.cs" Line="9" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Timespan PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
