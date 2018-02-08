@@ -1,0 +1,11 @@
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Text-Summaries/Text-Summaries/obj/Debug/netcoreapp2.0/Text-Summaries.csprojResolveAssemblyReference.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Text-Summaries/Text-Summaries/obj/Debug/netcoreapp2.0/Text-Summaries.csproj.CoreCompileInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Text-Summaries/Text-Summaries/obj/Debug/netcoreapp2.0/Text-Summaries.AssemblyInfoInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Text-Summaries/Text-Summaries/obj/Debug/netcoreapp2.0/Text-Summaries.AssemblyInfo.cs
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Text-Summaries/Text-Summaries/bin/Debug/netcoreapp2.0/Text-Summaries.deps.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Text-Summaries/Text-Summaries/bin/Debug/netcoreapp2.0/Text-Summaries.runtimeconfig.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Text-Summaries/Text-Summaries/bin/Debug/netcoreapp2.0/Text-Summaries.runtimeconfig.dev.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Text-Summaries/Text-Summaries/bin/Debug/netcoreapp2.0/Text-Summaries.dll
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Text-Summaries/Text-Summaries/bin/Debug/netcoreapp2.0/Text-Summaries.pdb
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Text-Summaries/Text-Summaries/obj/Debug/netcoreapp2.0/Text-Summaries.dll
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Text-Summaries/Text-Summaries/obj/Debug/netcoreapp2.0/Text-Summaries.pdb
