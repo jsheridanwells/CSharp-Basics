@@ -1,7 +1,5 @@
 ﻿using System;
 
-
-
 namespace TextExercises
 {
     class Program
@@ -38,7 +36,19 @@ namespace TextExercises
             Console.WriteLine("Give me some numbers. Separate them with a dash. If there are duplicates, I'll tell you");
             Duplicates.IsDuplicated(Console.ReadLine());
 
+            Console.WriteLine("Enter a time in 24-hour time");
+            TimeValue.GetTime(Console.ReadLine());
 
+
+            //Write a program and ask the user to enter a few words separated 
+            // by a space. Use the words to create a variable name with 
+            // PascalCase. For example, if the user types: 
+            // "number of students", display "NumberOfStudents".
+            // Make sure that the program is not dependent on the input.
+            // So, if the user types "NUMBER OF STUDENTS", 
+            // the program should still display "NumberOfStudents".
+            Console.WriteLine("Now give me a string. I will Pascal-lize it.");
+            Pascal.MakePascal(Console.ReadLine());
         }
     }
 }

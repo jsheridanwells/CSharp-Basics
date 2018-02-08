@@ -1,16 +1,18 @@
 ﻿<Properties StartupConfiguration="{80913AC2-69DA-42AC-94E3-F974A5161F1A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TextExercises/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TextExercises/Pascal.cs">
     <Files>
-      <File FileName="TextExercises/Duplicates.cs" Line="6" Column="21" />
+      <File FileName="TextExercises/Duplicates.cs" Line="20" Column="14" />
+      <File FileName="TextExercises/TimeValue.cs" Line="37" Column="14" />
+      <File FileName="TextExercises/Pascal.cs" Line="6" Column="30" />
       <File FileName="TextExercises/Consecutive.cs" Line="22" Column="1" NotebookId="1" />
-      <File FileName="TextExercises/Program.cs" Line="42" Column="10" NotebookId="1" />
+      <File FileName="TextExercises/Program.cs" Line="42" Column="51" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TextExercises" expanded="True">
             <Node name="TextExercises" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Pascal.cs" selected="True" />
             </Node>
           </Node>
         </State>
