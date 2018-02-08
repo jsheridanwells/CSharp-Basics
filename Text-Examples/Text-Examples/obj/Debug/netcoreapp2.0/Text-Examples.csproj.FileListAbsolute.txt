@@ -1,0 +1,11 @@
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Text-Examples/Text-Examples/bin/Debug/netcoreapp2.0/Text-Examples.deps.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Text-Examples/Text-Examples/bin/Debug/netcoreapp2.0/Text-Examples.runtimeconfig.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Text-Examples/Text-Examples/bin/Debug/netcoreapp2.0/Text-Examples.runtimeconfig.dev.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Text-Examples/Text-Examples/bin/Debug/netcoreapp2.0/Text-Examples.dll
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Text-Examples/Text-Examples/bin/Debug/netcoreapp2.0/Text-Examples.pdb
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Text-Examples/Text-Examples/obj/Debug/netcoreapp2.0/Text-Examples.csprojResolveAssemblyReference.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Text-Examples/Text-Examples/obj/Debug/netcoreapp2.0/Text-Examples.csproj.CoreCompileInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Text-Examples/Text-Examples/obj/Debug/netcoreapp2.0/Text-Examples.AssemblyInfoInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Text-Examples/Text-Examples/obj/Debug/netcoreapp2.0/Text-Examples.AssemblyInfo.cs
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Text-Examples/Text-Examples/obj/Debug/netcoreapp2.0/Text-Examples.dll
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Text-Examples/Text-Examples/obj/Debug/netcoreapp2.0/Text-Examples.pdb
