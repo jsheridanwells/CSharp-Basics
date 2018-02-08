@@ -13,14 +13,15 @@ namespace TextExercises
             var consecutive = "5-6-7-8-9";
             var notConsecutive = "6-2-8-4-8";
 
-            if (IsConsecutive(consecutive)) {
+            if (Consecutive.IsConsecutive(consecutive))
+            {
                 Console.WriteLine("Consecutive, dog.");
             }
-            else 
+            else
             {
                 Console.WriteLine("Failed");
             }
-            if (!IsConsecutive(notConsecutive))
+            if (!Consecutive.IsConsecutive(notConsecutive))
             {
                 Console.WriteLine("Not consecutive, yo.");
             }
@@ -29,20 +30,6 @@ namespace TextExercises
                 Console.WriteLine("Failed");
             }
 
-        }
-        static bool IsConsecutive(string str)
-        {
-            var numArr = str.Split('-');
-            int[] myInts = Array.ConvertAll(numArr, int.Parse);
-            var response = true;
-            for (var i = 0; i < myInts.Length; i++)
-            {
-                if (myInts[i] != (myInts[0] + i)) 
-                {
-                    response = false;
-                }
-            }
-            return response;
         }
     }
 }

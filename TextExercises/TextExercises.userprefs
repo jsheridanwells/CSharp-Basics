@@ -1,14 +1,15 @@
 ﻿<Properties StartupConfiguration="{80913AC2-69DA-42AC-94E3-F974A5161F1A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TextExercises/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TextExercises/Consecutive.cs">
     <Files>
-      <File FileName="TextExercises/Program.cs" Line="13" Column="1" />
+      <File FileName="TextExercises/Consecutive.cs" Line="6" Column="15" />
+      <File FileName="TextExercises/Program.cs" Line="33" Column="10" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TextExercises" expanded="True">
             <Node name="TextExercises" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Consecutive.cs" selected="True" />
             </Node>
           </Node>
         </State>
