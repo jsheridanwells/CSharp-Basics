@@ -49,6 +49,12 @@ namespace TextExercises
             // the program should still display "NumberOfStudents".
             Console.WriteLine("Now give me a string. I will Pascal-lize it.");
             Pascal.MakePascal(Console.ReadLine());
+
+            // Write a program and ask the user to enter an English word. Count the number of 
+            // vowels (a, e, o, u, i) in the word. So, if the user enters "inadequate", 
+            // the program should display 6 on the console.
+            Console.WriteLine("Give me a word and I'll count the vowels for you.");
+            Vowels.VowelCounter(Console.ReadLine());
         }
     }
 }

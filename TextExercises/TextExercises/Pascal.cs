@@ -9,6 +9,7 @@ namespace TextExercises
             if (String.IsNullOrWhiteSpace(str)) 
             {
                 Console.WriteLine("Put in proper input, please.");
+                return;
             }
             var wordArr = str.Split(' ');
             var pascalized = "";
