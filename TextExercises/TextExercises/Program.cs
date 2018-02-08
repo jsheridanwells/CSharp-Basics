@@ -1,5 +1,7 @@
 ﻿using System;
 
+
+
 namespace TextExercises
 {
     class Program
@@ -29,6 +31,13 @@ namespace TextExercises
             {
                 Console.WriteLine("Failed");
             }
+
+            // Write a program and ask the user to enter a few numbers separated by a hyphen. 
+            // If the user simply presses Enter, without supplying an input, exit immediately; otherwise, 
+            // check to see if there are duplicates. If so, display "Duplicate" on the console.
+            Console.WriteLine("Give me some numbers. Separate them with a dash. If there are duplicates, I'll tell you");
+            Duplicates.IsDuplicated(Console.ReadLine());
+
 
         }
     }
