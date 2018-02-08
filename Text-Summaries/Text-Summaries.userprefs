@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{184E9482-D42E-46CC-86AA-F6CB0EEBC7C6}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Text-Summaries/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Text-Summaries/EmptyClass.cs">
     <Files>
-      <File FileName="Text-Summaries/EmptyClass.cs" Line="8" Column="16" />
-      <File FileName="Text-Summaries/Program.cs" Line="13" Column="35" NotebookId="1" />
+      <File FileName="Text-Summaries/EmptyClass.cs" Line="26" Column="18" />
+      <File FileName="Text-Summaries/Program.cs" Line="15" Column="1" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Text-Summaries" expanded="True">
             <Node name="Text-Summaries" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="EmptyClass.cs" selected="True" />
             </Node>
           </Node>
         </State>
