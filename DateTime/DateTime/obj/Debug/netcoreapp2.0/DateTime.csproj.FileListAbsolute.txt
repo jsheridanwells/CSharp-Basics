@@ -1,0 +1,11 @@
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/DateTime/DateTime/obj/Debug/netcoreapp2.0/DateTime.csprojResolveAssemblyReference.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/DateTime/DateTime/obj/Debug/netcoreapp2.0/DateTime.csproj.CoreCompileInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/DateTime/DateTime/obj/Debug/netcoreapp2.0/DateTime.AssemblyInfoInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/DateTime/DateTime/obj/Debug/netcoreapp2.0/DateTime.AssemblyInfo.cs
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/DateTime/DateTime/bin/Debug/netcoreapp2.0/DateTime.deps.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/DateTime/DateTime/bin/Debug/netcoreapp2.0/DateTime.runtimeconfig.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/DateTime/DateTime/bin/Debug/netcoreapp2.0/DateTime.runtimeconfig.dev.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/DateTime/DateTime/bin/Debug/netcoreapp2.0/DateTime.dll
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/DateTime/DateTime/bin/Debug/netcoreapp2.0/DateTime.pdb
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/DateTime/DateTime/obj/Debug/netcoreapp2.0/DateTime.dll
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/DateTime/DateTime/obj/Debug/netcoreapp2.0/DateTime.pdb

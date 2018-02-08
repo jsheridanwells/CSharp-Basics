@@ -1,0 +1,11 @@
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Timespan/Timespan/bin/Debug/netcoreapp2.0/Timespan.deps.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Timespan/Timespan/bin/Debug/netcoreapp2.0/Timespan.runtimeconfig.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Timespan/Timespan/bin/Debug/netcoreapp2.0/Timespan.runtimeconfig.dev.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Timespan/Timespan/bin/Debug/netcoreapp2.0/Timespan.dll
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Timespan/Timespan/bin/Debug/netcoreapp2.0/Timespan.pdb
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Timespan/Timespan/obj/Debug/netcoreapp2.0/Timespan.csprojResolveAssemblyReference.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Timespan/Timespan/obj/Debug/netcoreapp2.0/Timespan.csproj.CoreCompileInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Timespan/Timespan/obj/Debug/netcoreapp2.0/Timespan.AssemblyInfoInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Timespan/Timespan/obj/Debug/netcoreapp2.0/Timespan.AssemblyInfo.cs
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Timespan/Timespan/obj/Debug/netcoreapp2.0/Timespan.dll
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/Timespan/Timespan/obj/Debug/netcoreapp2.0/Timespan.pdb
