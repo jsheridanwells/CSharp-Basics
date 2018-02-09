@@ -1,0 +1,11 @@
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/ProceduralExample/ProceduralExample/bin/Debug/netcoreapp2.0/ProceduralExample.deps.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/ProceduralExample/ProceduralExample/bin/Debug/netcoreapp2.0/ProceduralExample.runtimeconfig.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/ProceduralExample/ProceduralExample/bin/Debug/netcoreapp2.0/ProceduralExample.runtimeconfig.dev.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/ProceduralExample/ProceduralExample/bin/Debug/netcoreapp2.0/ProceduralExample.dll
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/ProceduralExample/ProceduralExample/bin/Debug/netcoreapp2.0/ProceduralExample.pdb
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/ProceduralExample/ProceduralExample/obj/Debug/netcoreapp2.0/ProceduralExample.csprojResolveAssemblyReference.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/ProceduralExample/ProceduralExample/obj/Debug/netcoreapp2.0/ProceduralExample.csproj.CoreCompileInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/ProceduralExample/ProceduralExample/obj/Debug/netcoreapp2.0/ProceduralExample.AssemblyInfoInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/ProceduralExample/ProceduralExample/obj/Debug/netcoreapp2.0/ProceduralExample.AssemblyInfo.cs
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/ProceduralExample/ProceduralExample/obj/Debug/netcoreapp2.0/ProceduralExample.dll
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/ProceduralExample/ProceduralExample/obj/Debug/netcoreapp2.0/ProceduralExample.pdb
