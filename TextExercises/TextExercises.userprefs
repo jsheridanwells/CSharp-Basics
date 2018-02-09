@@ -3,10 +3,10 @@
     <Files>
       <File FileName="TextExercises/Duplicates.cs" Line="20" Column="14" />
       <File FileName="TextExercises/TimeValue.cs" Line="37" Column="14" />
-      <File FileName="TextExercises/Pascal.cs" Line="1" Column="14" />
-      <File FileName="TextExercises/Vowels.cs" Line="6" Column="21" />
+      <File FileName="TextExercises/Pascal.cs" Line="12" Column="24" />
+      <File FileName="TextExercises/Vowels.cs" Line="23" Column="1" />
       <File FileName="TextExercises/Consecutive.cs" Line="22" Column="1" NotebookId="1" />
-      <File FileName="TextExercises/Program.cs" Line="57" Column="7" NotebookId="1" />
+      <File FileName="TextExercises/Program.cs" Line="45" Column="15" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
