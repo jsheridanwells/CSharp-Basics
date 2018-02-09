@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{17E21108-7470-4983-86FA-D7126C3CB3B0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FilesAndDirectories/FilesHelper.cs">
+    <Files>
+      <File FileName="FilesAndDirectories/FilesHelper.cs" Line="7" Column="10" />
+      <File FileName="FilesAndDirectories/Program.cs" Line="13" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FilesAndDirectories" expanded="True">
+            <Node name="FilesAndDirectories" expanded="True">
+              <Node name="FilesHelper.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FilesAndDirectories PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
