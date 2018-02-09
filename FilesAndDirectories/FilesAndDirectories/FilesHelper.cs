@@ -7,15 +7,13 @@ namespace FilesAndDirectories
     {
         public static int GetNumWords(string path)
         {
-            var words = File.ReadAllText(path);
-            var wordsArr = words.Split(' ');
+            var wordsArr = makeWordArr(path);
             return wordsArr.Length;
         }
 
         public static string GetLongestWord(string path)
         {
-            var words = File.ReadAllText(path);
-            var wordsArr = words.Split(' ');
+            var wordsArr = makeWordArr(path);
             var longestWord = "";
             foreach (var word in wordsArr)
             {
@@ -24,6 +22,12 @@ namespace FilesAndDirectories
                 }
             }
             return longestWord;
+        }
+
+        static string[] makeWordArr(string path)
+        {
+            var words = File.ReadAllText(path);
+            return words.Split(' ');
         }
     }
 }
