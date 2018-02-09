@@ -1,0 +1,11 @@
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/FilesAndDirectories/FilesAndDirectories/bin/Debug/netcoreapp2.0/FilesAndDirectories.deps.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/FilesAndDirectories/FilesAndDirectories/bin/Debug/netcoreapp2.0/FilesAndDirectories.runtimeconfig.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/FilesAndDirectories/FilesAndDirectories/bin/Debug/netcoreapp2.0/FilesAndDirectories.runtimeconfig.dev.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/FilesAndDirectories/FilesAndDirectories/bin/Debug/netcoreapp2.0/FilesAndDirectories.dll
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/FilesAndDirectories/FilesAndDirectories/bin/Debug/netcoreapp2.0/FilesAndDirectories.pdb
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/FilesAndDirectories/FilesAndDirectories/obj/Debug/netcoreapp2.0/FilesAndDirectories.csprojResolveAssemblyReference.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/FilesAndDirectories/FilesAndDirectories/obj/Debug/netcoreapp2.0/FilesAndDirectories.csproj.CoreCompileInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/FilesAndDirectories/FilesAndDirectories/obj/Debug/netcoreapp2.0/FilesAndDirectories.AssemblyInfoInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/FilesAndDirectories/FilesAndDirectories/obj/Debug/netcoreapp2.0/FilesAndDirectories.AssemblyInfo.cs
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/FilesAndDirectories/FilesAndDirectories/obj/Debug/netcoreapp2.0/FilesAndDirectories.dll
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/FilesAndDirectories/FilesAndDirectories/obj/Debug/netcoreapp2.0/FilesAndDirectories.pdb
