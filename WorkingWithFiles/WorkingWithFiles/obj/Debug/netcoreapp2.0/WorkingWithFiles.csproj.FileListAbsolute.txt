@@ -1,0 +1,11 @@
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/WorkingWithFiles/WorkingWithFiles/bin/Debug/netcoreapp2.0/WorkingWithFiles.deps.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/WorkingWithFiles/WorkingWithFiles/bin/Debug/netcoreapp2.0/WorkingWithFiles.runtimeconfig.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/WorkingWithFiles/WorkingWithFiles/bin/Debug/netcoreapp2.0/WorkingWithFiles.runtimeconfig.dev.json
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/WorkingWithFiles/WorkingWithFiles/bin/Debug/netcoreapp2.0/WorkingWithFiles.dll
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/WorkingWithFiles/WorkingWithFiles/bin/Debug/netcoreapp2.0/WorkingWithFiles.pdb
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/WorkingWithFiles/WorkingWithFiles/obj/Debug/netcoreapp2.0/WorkingWithFiles.csprojResolveAssemblyReference.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/WorkingWithFiles/WorkingWithFiles/obj/Debug/netcoreapp2.0/WorkingWithFiles.csproj.CoreCompileInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/WorkingWithFiles/WorkingWithFiles/obj/Debug/netcoreapp2.0/WorkingWithFiles.AssemblyInfoInputs.cache
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/WorkingWithFiles/WorkingWithFiles/obj/Debug/netcoreapp2.0/WorkingWithFiles.AssemblyInfo.cs
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/WorkingWithFiles/WorkingWithFiles/obj/Debug/netcoreapp2.0/WorkingWithFiles.dll
+/Users/jeremysheridanwells/workspace/tutorials/c-sharp-basics-udemy/WorkingWithFiles/WorkingWithFiles/obj/Debug/netcoreapp2.0/WorkingWithFiles.pdb
